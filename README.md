@@ -32,7 +32,7 @@ whoami?
 <h2>📫 Contact</h2>
 <a href="https://hackerone.com/eizaaa"><img align="right" width="200" src="assets/262951d5925ebbefc6d8eca2abf32929.jpg" /></a>
 
-<h3>Email me here: eizaaa@wearehackerone.com</h3>
+<h3>reach out at: eizaaa@wearehackerone.com</h3>
  
 [![](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xYura)
 [![](https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white)](https://hackerone.com/eizaaa)
